@@ -1,14 +1,12 @@
 # Flight Delay Analysis using-Exploratory Data Analysis (EDA)
 
 ## About the Project
-
 This project presents an **Exploratory Data Analysis (EDA)** of a Flight Delay dataset to identify patterns, trends, and factors influencing flight delays. The analysis focuses on understanding the data through statistical summaries, missing value analysis, visualization, correlation analysis, and feature relationship exploration.
 
 The objective is to gain meaningful insights into flight operations and prepare the dataset for future predictive modeling.
 
 
 ## 🎯 Objectives
-
 - Explore the dataset structure and features.
 - Analyze missing values and data quality.
 - Visualize the distribution of numerical and categorical variables.
@@ -18,7 +16,6 @@ The objective is to gain meaningful insights into flight operations and prepare 
 
 
 ## Technologies Used
-
 - Python
 - Pandas
 - NumPy
@@ -27,7 +24,6 @@ The objective is to gain meaningful insights into flight operations and prepare 
 - Jupyter Notebook
 
 ## 📊 Exploratory Data Analysis Performed
-
 - Data Exploration
 - Descriptive Statistics
 - Missing Value Analysis
@@ -39,7 +35,6 @@ The objective is to gain meaningful insights into flight operations and prepare 
 
 
 ## 📈 Key Findings
-
 - Most flights depart and arrive on time or with only minor delays.
 - Departure Delay has a strong positive relationship with Arrival Delay.
 - Distance and Air Time are highly correlated.
@@ -49,13 +44,10 @@ The objective is to gain meaningful insights into flight operations and prepare 
 
 
 ## 📁 Project Structure
-
 Flight_Delay_EDA/
 │
 
 ├── Flight_Delay_EDA.ipynb
-
-├── flights.csv
 
 ├── README.md
 
@@ -69,6 +61,7 @@ Flight_Delay_EDA/
     
     ├── pairplot.png
 
+Dataset link : https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv 
 
 ## 🚀 Future Work
 
