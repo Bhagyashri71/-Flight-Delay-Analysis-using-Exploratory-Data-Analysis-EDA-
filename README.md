@@ -52,14 +52,23 @@ The objective is to gain meaningful insights into flight operations and prepare 
 
 Flight_Delay_EDA/
 │
+
 ├── Flight_Delay_EDA.ipynb
+
 ├── flights.csv
+
 ├── README.md
+
 └── images/
+
     ├── histograms.png
+    
     ├── boxplots.png
+    
     ├── heatmap.png
+    
     ├── pairplot.png
+
 
 ## 🚀 Future Work
 
