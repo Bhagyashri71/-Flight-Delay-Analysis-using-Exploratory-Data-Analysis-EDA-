@@ -61,7 +61,8 @@ Flight_Delay_EDA/
     
     ├── pairplot.png
 
-Dataset link : https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv 
+### Dataset link : 
+https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv 
 
 ## 🚀 Future Work
 
@@ -70,4 +71,8 @@ Dataset link : https://www.kaggle.com/datasets/usdot/flight-delays?select=flight
 - Machine Learning Models for Flight Delay Prediction
 - Model Evaluation and Performance Comparison
 
-⭐ If you found this project helpful, consider giving it a star!
+### Author :
+Bhagyashri Ashtekar
+
+### Linkdean: 
+https://in.linkedin.com/in/bhagyashri-ashtekar-56346732a
